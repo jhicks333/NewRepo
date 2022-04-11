@@ -1,0 +1,41 @@
+.header{
+    height:50px;
+    background-color:lightskyblue;
+    line-height:50px;
+ }
+
+ .footer{
+    height:50px;
+    background-color:beige;
+ }
+  
+ img{
+    width:25%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+ }
+  
+ .common{
+    text-align: center;
+ }
+
+ li{
+     font-size:30px;
+     font-family: monospace;
+     color:black;
+ }
+
+.dashboards{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:55px;
+    font-weight:bolder;
+    color:darkgrey;
+}
+
+ .captions{
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size:40px;
+     font-weight:bold;
+     color:darkgrey;
+ }

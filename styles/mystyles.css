@@ -1,0 +1,30 @@
+p{
+    font-family:monospace;
+}
+
+body{
+    background-color:lightskyblue;
+}
+
+h1{
+    color:whitesmoke;
+    font-weight:bold;
+}
+
+li{
+    font-family:monospace;
+    color:black;
+    width:300px;
+}
+
+a{
+    font-family:monospace;
+    color:aliceblue;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
